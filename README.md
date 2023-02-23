@@ -7,3 +7,5 @@
 - To run the game, in the command line, type:
 
 > make run
+
+- TODO: make a server
