@@ -9,6 +9,7 @@ using namespace sf;
 const int num=8; //checkpoints
 // TODO: use checkpoint to make sure we are on the track.
 // Slow speed when not on the track.
+// Points on the map
 int points[num][2] = {300, 610,
     1270,430,
     1380,2380,
