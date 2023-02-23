@@ -12,7 +12,7 @@
 
 - Working with git:
 
-```
+```bash
 $ git pull origin branchname
 $ git add filenames
 $ git commit -m 'commit message'
