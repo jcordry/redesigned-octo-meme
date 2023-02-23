@@ -9,3 +9,16 @@
 > make run
 
 - TODO: make a server
+
+- Working with git:
+
+```
+$ git pull origin branchname
+$ git add filenames
+$ git commit -m 'commit message'
+$ git push origin branchname
+```
+
+```
+$ git clone address_of_the_repo
+```
